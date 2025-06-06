@@ -36,10 +36,9 @@ _University of Limpopo (2016 - 2019)_
 
 ## 🌱 Currently Learning
 
-- React.js
+- C#
+- Javascriptd
 - ADO.NET & SQL Server
-- GitHub Actions & Automation
-- Internet of Things (IoT)
 
 ---
 
